@@ -12,3 +12,8 @@ void fun()
 {
     std::cout<<"new Function.";
 }
+
+void f2()
+{
+    std::cout<<"f2 function.";
+}
